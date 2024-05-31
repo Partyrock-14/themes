@@ -34,12 +34,12 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --customFont: 'Open sans', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
 
   /* HOME BUTTON */
-  --homeImage: url('https://cdn.discordapp.com/attachments/440526953947070464/1213158409218826311/world-of-tanks-logo-video-game.png?ex=66423d50&is=6640ebd0&hm=d15747bfe23a30ea2a9f10025501eb4b35e785b43d5fb3d0d46fa409b44891ff&');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --homeImage: url('https://cdn.discordapp.com/attachments/440526953947070464/1213158409218826311/world-of-tanks-logo-video-game.png?ex=6659f850&is=6658a6d0&hm=6090891e94d1c227d3efc0ce5c1d96ef65450e116e7848656bf253c951918a0e&');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --homeImageSize: cover;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
 
   /* BACKGROUND */
   --backgroundColor: #0D0D0DFF; /* Background color */
-  --backgroundImage: url('https://cdn.discordapp.com/attachments/440526953947070464/1213158410044968980/WoT_wallpaper.png?ex=66423d50&is=6640ebd0&hm=a6c4f6d111306acbb03bfb989349a8d318775b9739f71527237872e83be321ec&'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage: url('https://cdn.discordapp.com/attachments/440526953947070464/1213158410044968980/WoT_wallpaper.png?ex=6659f850&is=6658a6d0&hm=a008249ee7b27ae6dcbd0a19f4b89c04994874cb6316d5e552e31e8f71c6161a&'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
