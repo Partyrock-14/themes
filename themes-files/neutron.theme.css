@@ -39,7 +39,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 
   /* BACKGROUND */
   --backgroundColor: #0D0D0DFF; /* Background color */
-  --backgroundImage: url('https://i.ibb.co/XWh13yv/Wo-T-wallpaper.png'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage: url('https://i.ibb.co/XWh13yv/WoT-wallpaper.png'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
