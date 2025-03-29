@@ -27,7 +27,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 ##########################################################################*/
 :root {
   /* COLORS */
-  --themeColor1: #A70000FF; /* Theme's color 1 */
+  --themeColor1: #ba0000FF; /* Theme's color 1 */
   --themeColor2: #F25000FF; /* Theme's color 2 */
 
   /* CUSTOM FONT */
